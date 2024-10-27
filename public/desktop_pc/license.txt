@@ -1,0 +1,11 @@
+Model Information:
+* title:	Bird House
+* source:	https://sketchfab.com/3d-models/bird-house-ab60e3ffe2834910b20ca0e25c5746d7
+* author:	Qiu_Ryzu (https://sketchfab.com/Qiu_Ryzu)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Bird House" (https://sketchfab.com/3d-models/bird-house-ab60e3ffe2834910b20ca0e25c5746d7) by Qiu_Ryzu (https://sketchfab.com/Qiu_Ryzu) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
